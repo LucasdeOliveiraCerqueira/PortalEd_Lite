@@ -1,4 +1,4 @@
-package com.portaled.p;
+package com.portaled.portaled_lite;
 
 import android.content.Intent;
 import android.os.Bundle;
