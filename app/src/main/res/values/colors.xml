@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cores Principais -->
+    <color name="primary">#0284C7</color>
+    <color name="primary_dark">#0369A1</color>
+    <color name="primary_light">#0EA5E9</color>
+
+    <!-- Fundo -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Texto -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+
+    <!-- Bordas -->
+    <color name="border">#E2E8F0</color>
+
+    <!-- Inputs -->
+    <color name="input_background">#F1F5F9</color>
+
+    <!-- Status -->
+    <color name="success">#22C55E</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+
+    <!-- Níveis -->
+    <color name="nivel_iniciante">#DCFCE7</color>
+    <color name="nivel_intermediario">#FEF3C7</color>
+    <color name="nivel_avancado">#FEE2E2</color>
+
+    <!-- Texto dos níveis -->
+    <color name="nivel_iniciante_text">#166534</color>
+    <color name="nivel_intermediario_text">#92400E</color>
+    <color name="nivel_avancado_text">#991B1B</color>
+
+    <!-- Básicas -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
